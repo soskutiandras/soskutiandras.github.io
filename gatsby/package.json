@@ -6,7 +6,7 @@
   "author": "Soskuti Andras <contact@soskutiandras.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.8.0",
-    "gatsby": "^2.0.40",
+    "gatsby": "^4.25.7",
     "gatsby-image": "^2.0.20",
     "gatsby-plugin-favicon": "^3.1.6",
     "gatsby-plugin-manifest": "^2.0.7",
